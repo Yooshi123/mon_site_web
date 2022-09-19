@@ -1,7 +1,7 @@
 
 tmp/todo.txt
 *.txt
-
+tmp/* 
 
 
 
